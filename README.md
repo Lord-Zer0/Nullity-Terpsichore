@@ -15,6 +15,13 @@ Created: 15-12-2017<br>
 
 ## Development
 First major development checkpoint is to create a working single-player application, then look into options considering multiplayer in test  environments.
+Integrations with:
+* Spotify
+* Google-Play
+* Device Library
+* (Apple Music?)
+
+Current development reflects a single-android-device system.
 
 Brought to you by Nullity-Core.
 
